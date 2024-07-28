@@ -1,2 +1,2 @@
 # Search-application
-Searcher
+Pull the repo and use the app
